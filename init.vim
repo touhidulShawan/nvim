@@ -9,4 +9,4 @@ source $HOME/.config/nvim/themes/shades_of_purple.vim
 "------------------------------ Plugin Configuration -----------------------
 source $HOME/.config/nvim/plugins-config/coc.vim
 source $HOME/.config/nvim/plugins-config/nerdtree.vim
-source $HOME/.config/nvim/plugins-config/rnvimr.vim
+source $HOME/.config/nvim/plugins-config/synthwave.vim
