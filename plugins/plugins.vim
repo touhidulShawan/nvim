@@ -10,7 +10,6 @@ Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'scrooloose/nerdcommenter'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
 Plug 'rigellute/shades-of-purple.vim'  "theme
-Plug 'exitface/synthwave.vim'   "theme
 Plug 'francoiscabrol/ranger.vim'     "ranger 
 Plug 'rbgrouleff/bclose.vim'  "ranger dependency
 call plug#end() 
