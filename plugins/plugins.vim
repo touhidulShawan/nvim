@@ -9,5 +9,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'scrooloose/nerdcommenter'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
+Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 Plug 'rigellute/shades-of-purple.vim'
 call plug#end() 
