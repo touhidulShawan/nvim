@@ -12,4 +12,6 @@ Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
 Plug 'rigellute/shades-of-purple.vim'  "theme
 Plug 'francoiscabrol/ranger.vim'     "ranger 
 Plug 'rbgrouleff/bclose.vim'  "ranger dependency
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 call plug#end() 
