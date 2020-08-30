@@ -5,3 +5,6 @@ nnoremap k gk
 nnoremap <slient> <C-p> :Files<CR>
 nnoremap <slient> <C-o> :Buffers<CR>
 nnoremap <C-f> :Rg!
+
+"CHADopen
+nnoremap <leader>v <cmd>CHADopen<cr>
