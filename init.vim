@@ -9,3 +9,4 @@ source $HOME/.config/nvim/themes/shades_of_purple.vim
 "------------------------------ Plugin Configuration -----------------------
 source $HOME/.config/nvim/plugins-config/coc.vim
 source $HOME/.config/nvim/plugins-config/nerdtree.vim
+source $HOME/.config/nvim/plugins-config/airline-theme.vim
