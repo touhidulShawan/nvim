@@ -8,7 +8,8 @@ Plug 'airblade/vim-gitgutter'
 Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'scrooloose/nerdcommenter'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
-Plug 'rigellute/shades-of-purple.vim'  "theme
+"Plug 'rigellute/shades-of-purple.vim'  "theme
+Plug 'morhetz/gruvbox' "theme
 Plug 'francoiscabrol/ranger.vim'     "ranger 
 Plug 'rbgrouleff/bclose.vim'  "ranger dependency
 Plug 'vim-airline/vim-airline'
