@@ -26,4 +26,5 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': ':UpdateRemotePlugins'}
 Plug 'tpope/vim-fugitive'
+Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 call plug#end() 
