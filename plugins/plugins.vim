@@ -16,10 +16,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'scrooloose/nerdcommenter'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
-Plug 'rigellute/shades-of-purple.vim'  "theme
-"Plug 'morhetz/gruvbox' "theme
-Plug 'francoiscabrol/ranger.vim'     "ranger 
-Plug 'rbgrouleff/bclose.vim'  "ranger dependency
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
@@ -27,4 +23,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': ':UpdateRemotePlugins'}
 Plug 'tpope/vim-fugitive'
 Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
+
+"------------------ Themes --------------------
+Plug 'rigellute/shades-of-purple.vim'  "theme
+"Plug 'morhetz/gruvbox' "theme
 call plug#end() 
