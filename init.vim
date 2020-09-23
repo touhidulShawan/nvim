@@ -18,6 +18,5 @@ source $HOME/.config/nvim/themes/shades_of_purple.vim
 "source $HOME/.config/nvim/themes/gruvbox.vim
 "------------------------------ Plugin Configuration -----------------------
 source $HOME/.config/nvim/plugins-config/coc.vim
-source $HOME/.config/nvim/plugins-config/nerdtree.vim
 source $HOME/.config/nvim/plugins-config/airline-theme.vim
 source $HOME/.config/nvim/plugins-config/rnvimr.vim
