@@ -22,6 +22,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 
 "------------------ Themes --------------------
-Plug 'rigellute/shades-of-purple.vim'  "theme
-"Plug 'morhetz/gruvbox' "theme
+"Plug 'haishanh/night-owl.vim' " night owl 
+Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
+"Plug 'morhetz/gruvbox' " gruvbox theme
 call plug#end() 

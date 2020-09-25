@@ -10,6 +10,7 @@
 
 nnoremap j gj
 nnoremap k gk
+inoremap jj <ESC>
 
 "FZF
 nnoremap <slient> <C-p> :Files<CR>
