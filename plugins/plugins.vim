@@ -23,6 +23,6 @@ Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 
 "------------------ Themes --------------------
 "Plug 'haishanh/night-owl.vim' " night owl 
-Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
-"Plug 'morhetz/gruvbox' " gruvbox theme
+"Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
+Plug 'morhetz/gruvbox' " gruvbox theme
 call plug#end() 
