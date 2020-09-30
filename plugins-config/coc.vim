@@ -8,7 +8,8 @@ let g:coc_global_extensions = [
   \ 'coc-json',
   \ 'coc-html',
   \ 'coc-emmet',
-  \ 'coc-css'
+  \ 'coc-css',
+  \ 'coc-tailwindcss'
   \ ]
 " from readme
 " if hidden is not set, TextEdit might fail.
