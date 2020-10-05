@@ -8,7 +8,7 @@
 "                                   
 "--------------------------------------                                   
 set termguicolors     " enable true colors support
-set shell=/bin/bash
+set shell=/usr/bin/fish
 set number relativenumber
 set spell
 syntax enable
@@ -28,3 +28,7 @@ set cindent
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set smartcase
+set encoding=utf-8
+set cursorline
+set cursorcolumn
