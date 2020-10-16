@@ -18,10 +18,11 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-fugitive'
-Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
-Plug 'rbgrouleff/bclose.vim'
+"Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
+"Plug 'rbgrouleff/bclose.vim'
 "------------------ Themes --------------------
 Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
 "Plug 'morhetz/gruvbox' " gruvbox theme
+"Plug 'drewtempelmeyer/palenight.vim'
 call plug#end()
