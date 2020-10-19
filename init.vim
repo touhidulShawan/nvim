@@ -14,7 +14,6 @@ else
   source $HOME/.config/nvim/plugins/plugins.vim
   source $HOME/.config/nvim/general/setting.vim
   source $HOME/.config/nvim/keys/mapping.vim
-
   "------------------------------- Themes ------------------------------------
   source $HOME/.config/nvim/themes/night_owl.vim
   "source $HOME/.config/nvim/themes/shades_of_purple.vim
@@ -24,5 +23,6 @@ else
   "------------------------------ Plugin Configuration -----------------------
   source $HOME/.config/nvim/plugins-config/coc.vim
   source $HOME/.config/nvim/plugins-config/airline-theme.vim
+  "source $HOME/.config/nvim/plugins-config/ranger.vim
   "source $HOME/.config/nvim/plugins-config/rnvimr.vim
 endif

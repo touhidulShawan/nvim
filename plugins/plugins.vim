@@ -19,6 +19,7 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-fugitive'
 "Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
+"Plug 'francoiscabrol/ranger.vim'
 "Plug 'rbgrouleff/bclose.vim'
 "------------------ Themes --------------------
 Plug 'haishanh/night-owl.vim' " night owl
