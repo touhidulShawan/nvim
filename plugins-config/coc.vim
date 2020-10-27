@@ -9,7 +9,15 @@ let g:coc_global_extensions = [
   \ 'coc-html',
   \ 'coc-emmet',
   \ 'coc-css',
-  \ 'coc-tailwindcss'
+  \ 'coc-tailwindcss',
+  \ 'coc-bootstrap-classname',
+  \ 'coc-stylelint',
+  \ 'coc-python',
+  \ 'coc-highlight',
+  \ 'coc-markdownlint',
+  \ 'coc-fish',
+  \ 'coc-lua',
+  \ 'coc-import-cost',
   \ ]
 let g:coc_explorer_global_presets = {
 \   '.vim': {
@@ -166,6 +174,6 @@ nnoremap <silent> <space>k  :<C-u>CocPrev<CR>
 nnoremap <silent> <space>p  :<C-u>CocListResume<CR>
 
 " Explorer
-nmap <space>e :CocCommand explorer<CR>
+nmap <space>e :CocCommand explorer --toggle<CR>
 nmap <space>f :CocCommand explorer --preset floating<CR>
 autocmd BufEnter * if (winnr("$") == 1 && &filetype == 'coc-explorer') | q | endif
