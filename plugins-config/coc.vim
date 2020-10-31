@@ -18,6 +18,7 @@ let g:coc_global_extensions = [
   \ 'coc-fish',
   \ 'coc-lua',
   \ 'coc-import-cost',
+  \ 'coc-styled-components'
   \ ]
 let g:coc_explorer_global_presets = {
 \   '.vim': {
