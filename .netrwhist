@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/shawan/.config/fish/functions'
+let g:netrw_dirhist_2='/home/shawan/.config/fish'
 let g:netrw_dirhist_1='/home/shawan/.config/nvim/plugins'
 let g:netrw_dirhist_0='/home/shawan/.config/awesome/themes/multicolor'
 let g:netrw_dirhist_9='/home/shawan/.config/awesome/themes/copland'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_7='/home/shawan/.config/awesome'
 let g:netrw_dirhist_6='/home/shawan/.config/awesome/themes/blackburn'
 let g:netrw_dirhist_5='/home/shawan/.config/awesome/themes'
 let g:netrw_dirhist_4='/home/shawan/.config/awesome'
-let g:netrw_dirhist_3='/home/shawan/.config/nvim/plugins'
-let g:netrw_dirhist_2='/home/shawan/.config/nvim'
