@@ -15,7 +15,6 @@ let g:coc_global_extensions = [
   \ 'coc-python',
   \ 'coc-highlight',
   \ 'coc-markdownlint',
-  \ 'coc-fish',
   \ 'coc-import-cost',
   \ 'coc-styled-components'
   \ ]
