@@ -20,7 +20,6 @@ Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'mlaursen/vim-react-snippets'
 Plug 'mhinz/vim-startify'
-Plug 'dag/vim-fish'
 "Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 "Plug 'francoiscabrol/ranger.vim'
 "Plug 'rbgrouleff/bclose.vim'

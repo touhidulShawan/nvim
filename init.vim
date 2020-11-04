@@ -24,7 +24,6 @@ else
   source $HOME/.config/nvim/plugins-config/coc.vim
   source $HOME/.config/nvim/plugins-config/airline-theme.vim
   source $HOME/.config/nvim/plugins-config/startify-welcome.vim
-  source $HOME/.config/nvim/plugins-config/fish.vim
   "source $HOME/.config/nvim/plugins-config/ranger.vim
   "source $HOME/.config/nvim/plugins-config/rnvimr.vim
 endif
