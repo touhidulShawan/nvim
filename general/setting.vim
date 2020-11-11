@@ -30,4 +30,3 @@ set shiftwidth=2
 set expandtab
 set smartcase
 set encoding=utf-8
-autocmd FileType fish
