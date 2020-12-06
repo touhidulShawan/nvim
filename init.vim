@@ -27,5 +27,5 @@ else
   "source $HOME/.config/nvim/plugins-config/ranger.vim
   "source $HOME/.config/nvim/plugins-config/rnvimr.vim
   "
-  let g:python3_host_prog = '/home/shawan/.virtualenvs/defaultEnv/bin/python'
+  let g:python3_host_prog = '/home/shawan/.virtualenvs/neovim/bin/python'
 endif
