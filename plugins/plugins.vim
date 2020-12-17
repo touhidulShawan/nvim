@@ -26,8 +26,8 @@ Plug 'dag/vim-fish'
 "------------------ Themes --------------------
 "Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
-"Plug 'morhetz/gruvbox' " gruvbox theme
+Plug 'morhetz/gruvbox' " gruvbox theme
 "Plug 'drewtempelmeyer/palenight.vim'
-Plug 'ayu-theme/ayu-vim'
-Plug 'ayu-theme/ayu-vim-airline'
+"Plug 'ayu-theme/ayu-vim'
+"Plug 'ayu-theme/ayu-vim-airline'
 call plug#end()
