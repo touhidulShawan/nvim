@@ -20,9 +20,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'mlaursen/vim-react-snippets'
 Plug 'mhinz/vim-startify'
 Plug 'dag/vim-fish'
-"Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
-"Plug 'francoiscabrol/ranger.vim'
-"Plug 'rbgrouleff/bclose.vim'
+Plug 'ryanoasis/vim-devicons'
 "------------------ Themes --------------------
 Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
