@@ -25,8 +25,10 @@ set foldnestmax=10
 set foldmethod=indent
 set smarttab
 set cindent
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set expandtab
 set smartcase
+set smartindent
 set encoding=utf-8
+set background=dark
