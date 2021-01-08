@@ -8,7 +8,7 @@
 "
 "--------------------------------------
 set termguicolors     " enable true colors support
-set shell=/usr/bin/fish
+set shell=/usr/bin/bash
 set number relativenumber
 set spell
 syntax enable
