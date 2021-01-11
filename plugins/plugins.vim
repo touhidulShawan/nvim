@@ -9,6 +9,9 @@
 "-------------------------------------------------
 call plug#begin('~/.config/nvim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
 Plug 'airblade/vim-gitgutter'
 Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
@@ -22,8 +25,9 @@ Plug 'mhinz/vim-startify'
 Plug 'dag/vim-fish'
 Plug 'ryanoasis/vim-devicons'
 "------------------ Themes --------------------
-Plug 'haishanh/night-owl.vim' " night owl
+"Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
+Plug 'gruvbox-community/gruvbox'
 "Plug 'morhetz/gruvbox' " gruvbox theme
 "Plug 'drewtempelmeyer/palenight.vim'
 "Plug 'ayu-theme/ayu-vim'
