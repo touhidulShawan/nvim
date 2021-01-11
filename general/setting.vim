@@ -10,7 +10,6 @@
 set termguicolors     " enable true colors support
 set shell=/usr/bin/bash
 set exrc
-set guicursor=
 set nohlsearch
 set hidden
 set number relativenumber
