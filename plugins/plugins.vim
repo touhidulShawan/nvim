@@ -32,4 +32,5 @@ Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'drewtempelmeyer/palenight.vim'
 "Plug 'ayu-theme/ayu-vim'
 "Plug 'ayu-theme/ayu-vim-airline'
+"Plug 'sonph/onehalf', { 'rtp': 'vim' }
 call plug#end()
