@@ -7,6 +7,7 @@
 " |____/_/    \_\_____/|_____\_____|
 "
 "--------------------------------------
+set exrc
 set termguicolors     " enable true colors support
 set shell=/usr/bin/bash
 set exrc
@@ -31,9 +32,9 @@ set expandtab
 set smartcase
 set smartindent
 set scrolloff=8
+set colorcolumn=80
 set signcolumn=yes
 set encoding=utf-8
-set background=dark
 syntax enable
 syntax on
 filetype plugin indent on
