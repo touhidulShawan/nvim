@@ -25,6 +25,7 @@ Plug 'mhinz/vim-startify'
 Plug 'dag/vim-fish'
 Plug 'ryanoasis/vim-devicons'
 "------------------ Themes --------------------
+"Plug 'arcticicestudio/nord-vim'
 Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
 "Plug 'gruvbox-community/gruvbox'

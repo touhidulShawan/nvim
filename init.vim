@@ -18,6 +18,7 @@ source $HOME/.config/nvim/themes/night_owl.vim
 "source $HOME/.config/nvim/themes/palenight.vim
 "source $HOME/.config/nvim/themes/ayu.vim
 "source $HOME/.config/nvim/themes/onehalf.vim
+"source $HOME/.config/nvim/themes/nord.vim
 
 "------------------------------ Plugin Configuration -----------------------
 source $HOME/.config/nvim/plugins-config/coc.vim
