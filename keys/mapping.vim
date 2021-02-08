@@ -38,6 +38,3 @@ nnoremap <C-f> :Rg!
 nmap <leader>gs :G<CR>
 nmap <leader>gh :diffget //3<CR>
 nmap <leader>gu :diffget //2<CR>
-
-"mapping for telescope
-nnoremap <leader>ps :lua require('telescope.builtin').grep_string({ search = vim.fn.input("Search For > ")})<CR>

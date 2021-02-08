@@ -13,6 +13,7 @@ set shell=/usr/bin/bash
 set exrc
 set nohlsearch
 set hidden
+set noswapfile
 set number relativenumber
 set noerrorbells
 set spell
