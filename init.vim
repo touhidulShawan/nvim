@@ -12,11 +12,11 @@ source $HOME/.config/nvim/plugins/plugins.vim
 source $HOME/.config/nvim/general/setting.vim
 source $HOME/.config/nvim/keys/mapping.vim
 "------------------------------- Themes ------------------------------------
-source $HOME/.config/nvim/themes/night_owl.vim
+"source $HOME/.config/nvim/themes/night_owl.vim
 "source $HOME/.config/nvim/themes/shades_of_purple.vim
 "source $HOME/.config/nvim/themes/gruvbox.vim
 "source $HOME/.config/nvim/themes/palenight.vim
-"source $HOME/.config/nvim/themes/ayu.vim
+source $HOME/.config/nvim/themes/ayu.vim
 "source $HOME/.config/nvim/themes/onehalf.vim
 "source $HOME/.config/nvim/themes/nord.vim
 
