@@ -10,4 +10,4 @@
 
 colorscheme gruvbox
 set background=dark
-"highlight Normal guibg=none
+highlight Normal guibg=none

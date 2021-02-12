@@ -25,10 +25,10 @@ Plug 'ryanoasis/vim-devicons'
 "Plug 'arcticicestudio/nord-vim'
 "Plug 'haishanh/night-owl.vim' " night owl
 "Plug 'rigellute/shades-of-purple.vim'  " shades of purple theme
-"Plug 'gruvbox-community/gruvbox'
+Plug 'gruvbox-community/gruvbox'
 "Plug 'morhetz/gruvbox' " gruvbox theme
 "Plug 'drewtempelmeyer/palenight.vim'
-Plug 'ayu-theme/ayu-vim'
-Plug 'ayu-theme/ayu-vim-airline'
+"Plug 'ayu-theme/ayu-vim'
+"Plug 'ayu-theme/ayu-vim-airline'
 "Plug 'sonph/onehalf', { 'rtp': 'vim' }
 call plug#end()
