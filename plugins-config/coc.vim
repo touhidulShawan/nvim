@@ -17,7 +17,9 @@ let g:coc_global_extensions = [
   \ 'coc-markdownlint',
   \ 'coc-import-cost',
   \ 'coc-styled-components',
-  \ 'coc-explorer'
+  \ 'coc-explorer',
+  \ 'coc-sh',
+  \ 'coc-clangd'
   \ ]
 let g:coc_explorer_global_presets = {
 \   '.vim': {
