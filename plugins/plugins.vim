@@ -21,6 +21,9 @@ Plug 'mlaursen/vim-react-snippets'
 Plug 'mhinz/vim-startify'
 Plug 'dag/vim-fish'
 Plug 'ryanoasis/vim-devicons'
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
 "------------------ Themes --------------------
 "Plug 'arcticicestudio/nord-vim'
 "Plug 'haishanh/night-owl.vim' " night owl

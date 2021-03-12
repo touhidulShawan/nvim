@@ -25,6 +25,7 @@ source $HOME/.config/nvim/themes/dracula.vim
 source $HOME/.config/nvim/plugins-config/coc.vim
 source $HOME/.config/nvim/plugins-config/airline-theme.vim
 source $HOME/.config/nvim/plugins-config/startify-welcome.vim
+source $HOME/.config/nvim/plugins-config/telescope.vim
 "source $HOME/.config/nvim/plugins-config/ranger.vim
 "source $HOME/.config/nvim/plugins-config/rnvimr.vim
 "
